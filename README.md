@@ -11,5 +11,13 @@ https://www.kaggle.com/datasets/fedesoriano/california-housing-prices-data-extra
 Topic: California Housing Price Predictor
 
 
+Report:
+
+1) Introduction/Abstract - Alex
+2) Methods Used - Chris
+   What we will use to implement
+4) Result - Alex
+   Analysis after implementation using results
+5) Conclusion - Annabel
 
 
