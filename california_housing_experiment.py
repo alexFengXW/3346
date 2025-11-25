@@ -27,7 +27,7 @@ def load_data(path: str) -> Tuple[pd.DataFrame, np.ndarray]:
     and target vector y.
     """
     df = pd.read_csv(path)
-    # Drop rows with missing values (if any)
+    # Drop rows with missing values
     df = df.dropna()
 
     target_col = "Median_House_Value"
@@ -344,3 +344,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
