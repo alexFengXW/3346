@@ -1,4 +1,4 @@
-# 3346
+# California Housing Price Predictor
 
 Dataset: https://www.kaggle.com/datasets
 Tex editing tool: https://tug.org/texworks/
@@ -8,7 +8,6 @@ Outline report in google doc: https://docs.google.com/document/d/14r4YRO3StpJQbB
 Datasets:
 https://www.kaggle.com/datasets/fedesoriano/california-housing-prices-data-extra-features
 
-Topic: California Housing Price Predictor
 
 
 Report:
